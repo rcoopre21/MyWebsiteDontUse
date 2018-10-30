@@ -1,26 +1,5 @@
 @charset "utf-8";
 
-background-image: url("https://www.panorama.it/wp-content/uploads/2017/12/Viola.jpg");
-}
-</style>
-</head>
-<body>
-</html>
-
-<body>
-</body>
-</html>
-<div id="grad1"></div>
-
-</body>
-</html>
-
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-body {
-    font-family: "Courier New", sans-serif;
-    transition: background-color .5s;
-}
 
 .sidenav {
     height: 100%;
@@ -93,17 +72,3 @@ function closeNav() {
     document.getElementById("main").style.marginLeft= "0";
     document.body.style.backgroundColor = "BLACK";
 }
-</script>
-     
-</body>
-</html> 
-<body bgcolor="#A094AA">
-  <h1 align="center">REC Art</h1> 
-  <table>
-<table cellspacing="15">
-<tr>
-    
-    <meta name="description" content="REC ART">
-<meta name="keywords" content="HTML, CSS, HTML5, Javascript">
-<link rel="icon" href="images/favicon1.png" type="image/png" sizes="16x16">
-  </head>
