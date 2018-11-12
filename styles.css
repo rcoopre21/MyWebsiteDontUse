@@ -1,6 +1,8 @@
 @charset "utf-8";
 
-
+body {
+    background-image: url("https://www.panorama.it/wp-content/uploads/2017/12/Viola.jpg");
+}
 .sidenav {
     height: 100%;
     width: 0;
