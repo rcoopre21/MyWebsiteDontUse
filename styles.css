@@ -56,7 +56,12 @@ body {
   <a href="inspiration.html">Inspiration</a>
   <a href="future.html">The Future</a>
 </div> 
-
+function w3_open() {
+    document.getElementById("mySidebar").style.display = "block";
+}
+function w3_close() {
+    document.getElementById("mySidebar").style.display = "none";
+}
 
 <div id="main">
   <span style="font-size:30px;cursor:pointer" onclick="Nav()">&#9776; </span>
